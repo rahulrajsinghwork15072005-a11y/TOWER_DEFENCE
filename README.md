@@ -112,6 +112,7 @@ All game objects are plain arrays:
 ---
 
 ## 📁 File Structure
+'''text
 grid-sentinel-ii/
 ├── index.html # Game source (HTML + CSS + JS all in one)
 └── README.md
