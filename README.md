@@ -1,4 +1,4 @@
-# RID SENTINEL II
+# SENTINEL II
 
 **A tactical sci‑fi tower defense game – pure HTML5 Canvas & vanilla JavaScript.**  
 Protect the exit node from relentless waves. Build and upgrade towers directly on the grid; every placement alters the enemy path in real time. Block too much and you lose your route – strategy is everything.
